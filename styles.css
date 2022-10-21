@@ -1,9 +1,10 @@
 body {
   background-color: #ffffff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 img {
-  max-width: 80%;
+  max-width: 60%;
   border-radius: 10px;
   display: block;
   margin: 30px auto;
@@ -18,6 +19,7 @@ h2 {
   line-height: 1.3em;
   text-transform: none;
 }
+a,
 h3 {
   font-family: trade-gothic-next-compressed;
   font-weight: 400;
@@ -38,4 +40,7 @@ p {
   line-height: 1.6em;
   text-transform: none;
   color: #5c5c5c;
+}
+a:hover {
+  color: rgba(29, 29, 29, 0.3);
 }
