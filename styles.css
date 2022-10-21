@@ -10,6 +10,15 @@ img {
   margin: 30px auto;
 }
 
+h1 {
+  font-family: trade-gothic-next-compressed;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12px;
+  letter-spacing: 0.25em;
+  line-height: 2em;
+}
+
 h2 {
   font-family: Roboto Slab;
   font-weight: 100;
